@@ -391,4 +391,6 @@ let obj = {
 console.log(jsonStringify(obj))
 console.log(JSON.stringify(obj))
 
+console.log("very *** 1.10 / 4")
+
 //these 14 is veri good most of them i steal from github.com/bitfishxyz
