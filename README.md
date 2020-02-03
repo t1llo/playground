@@ -8,5 +8,4 @@ Install:
 
 <br>
 <br>
-<b>2. essential.js: this is my first libary that simplifys your js experience. <br>
- * co-author: bitfishxyz
+<b>2. essential.js: this is my first libary that simplifys your js experience.  co-author: bitfishxyz </b>
