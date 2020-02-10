@@ -4,7 +4,7 @@ Install:
 * npm i
 * npm run dev | node server.js
 * setup mongodb and edit connection string in config/db.js 
-* Postman[POST]: localhost:8000/notes
+* Postman[POST]: localhost:8000/notes || browser POST
 
 <br>
 <br>
